@@ -1,0 +1,1 @@
+export default function AdminPanel() { return <div id="adm"><div className="ad"><div style={{display:"flex",justifyContent:"space-between",alignItems:"center"}}><h2>Admin <span className="gt">Panel</span></h2><button className="sm" id="ax">✕ Close</button></div><div id="ap"></div></div></div>; }

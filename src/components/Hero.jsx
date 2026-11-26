@@ -1,0 +1,3 @@
+export default function Hero() {
+ return <><section className="hero"><div><p className="a" style={{animationDelay:".2s",color:"var(--g)",letterSpacing:".3em",fontSize:12,margin:"0 0 14px"}}>SIRSA · HARYANA</p><h1 className="a" style={{animationDelay:".35s"}}>Powering<br/><span className="gt">Better Living.</span></h1><p className="a" style={{animationDelay:".55s"}}>Kent, Livpure, G Series, Oliver &amp; every type of RO — plus geysers, coolers, fans, inverters, batteries and genuine spare parts.</p><div className="a" style={{animationDelay:".75s"}}><a className="btn" href="#shop">Explore Products</a><a className="btn o" id="wa0" target="_blank" rel="noopener">WhatsApp Us</a></div></div></section><div className="mq"><div id="mq"></div></div></>;
+}
